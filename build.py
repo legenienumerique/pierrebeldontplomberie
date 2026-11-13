@@ -7,7 +7,7 @@ import sys
 OUT = sys.argv[1] if len(sys.argv) > 1 else "."
 A = 'assets/'
 PH = A + 'ph/'
-V = 5  # cache : incrémenter à chaque changement de CSS ou JS
+V = 6  # cache : incrémenter à chaque changement de CSS ou JS
 TEL, TELH = '06 25 22 00 17', 'tel:0625220017'
 MAIL = 'beldontpierre@gmail.com'
 ADR = ('113 rue Pasteur', '01400 Châtillon-sur-Chalaronne')
